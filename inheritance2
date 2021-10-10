@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Inheritance_2
+namespace Inheritance2_093_kurrotul uyun
 {
     public class KomisiTambahanKaryawan
     {

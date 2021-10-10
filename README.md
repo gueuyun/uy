@@ -1,2 +1,4 @@
 # Kurrotul uyun_093
-repository untuk menyimpan tugas
+tempat untuk menyimpan tugas
+contoh untuk menggunakan inheritance dan interface 
+dengan bahasa pemograman C#
